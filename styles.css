@@ -4,10 +4,15 @@
 
 body {
 background: #bf02ee;
-color: #1E89A4;
+color: #f30e8c;
 
 }
 #myname{
   color:red;
   font-size: 50px;
+}
+
+#mysis{
+  font-size: 50px;
+  color:blue;
 }
