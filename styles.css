@@ -3,16 +3,21 @@
 }
 
 body {
-background: #bf02ee;
-color: #f30e8c;
+background: #80ee02;
+color: #f30e0e;
 
 }
 #myname{
-  color:red;
+  color:rgb(0, 4, 255);
   font-size: 50px;
 }
 
 #mysis{
   font-size: 50px;
-  color:blue;
+  color:rgb(255, 0, 119);
+}
+#mysis3{
+  font-size: 50px;
+   color: #bf02ee;
+
 }
